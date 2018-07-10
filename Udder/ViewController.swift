@@ -22,6 +22,8 @@ class ViewController: UIViewController {
     func test(){
         
     }
-
+    func otherFunc(){
+        //
+    }
 }
 
